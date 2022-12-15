@@ -1,2 +1,1 @@
-# hello-world
-cted 298 assignment 
+ctec 298 assignment 
